@@ -22,6 +22,6 @@ When adding a new promoted result, Wagtail provides you with a 'Choose from popu
 
 ![Popular search terms modal dialog, with close button, search fields, and a table showing multiple terms with their respective Views (past week)](../../_static/images/screen38.5_popular_search_results.png)
 
-You then add a the result itself by clicking 'Add recommended page'. You can add multiple results, but be careful about adding too many, as you may end up hiding all of your organic results with promoted results, which may not be helpful for users who aren't really sure what they are looking for.
+You then add the result itself by clicking 'Add recommended page'. You can add multiple results, but be careful about adding too many, as you may end up hiding all of your organic results with promoted results, which may not be helpful for users who aren't really sure what they are looking for.
 
 ![Promoted result editing form, with search term field and associated pages](../../_static/images/screen39_add_promoted_result.png)
