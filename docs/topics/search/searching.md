@@ -30,7 +30,7 @@ All other methods of `PageQuerySet` can be used with `search()`. For example:
 The `search()` method will convert your `QuerySet` into an instance of one of Wagtail's `SearchResults` classes (depending on backend). This means that you must perform filtering before calling `search()`.
 ```
 
-Before the `autocomplete()` method was introduced, the search method also did partial matching. This behaviour is will be deprecated and you should either switch to the new `autocomplete()` method or pass `partial_match=False` into the search method to opt-in to the new behaviour.
+Before the `autocomplete()` method was introduced, the search method also did partial matching. This behaviour is deprecated and you should either switch to the new `autocomplete()` method or pass `partial_match=False` into the search method to opt-in to the new behaviour.
 The partial matching in `search()` will be completely removed in a future release.
 
 ### Autocomplete searches
